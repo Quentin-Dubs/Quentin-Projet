@@ -33,4 +33,5 @@ Pour build l'image docker, il suffit d'entrer :
 - docker build -t "nom du conteneur" .
 Et pour exécuter le conteneur :
 docker run -d -p "port:port" "nom du conteneur"
- 
+ ![Capture d’écran 2024-09-20 160257](https://github.com/user-attachments/assets/1919655a-b605-467f-bbd5-1285d3950156)
+
