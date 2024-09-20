@@ -16,3 +16,10 @@
 - git config --global user.email "ton-email@example.com" - Définir l'adresse e-mail globale. 
 
 ### Projet :
+Une fois le compte Groq créer, je peux générais un API Token que je le place dans le fichier ~/.zshrc comme variable d'environnement (GROQ_API_KEY)  pour ne pas afficher en brut dans le script.
+Il faut ajouter l'import OS pour utiliser le token dans le script ainsi que les dépendances dans le fichier requirements.txt qui sont :
+- groq
+- httpx
+- fastapi
+- pydantic
+- os
