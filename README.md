@@ -1,4 +1,4 @@
-### Quentin-Projet
+# Quentin-Projet
 
 ## Commande git :
 git clone <url> - Cloner un dépôt
@@ -15,4 +15,4 @@ git pull origin <nom_de_la_branche> - Tirer les modifications du dépôt distant
 git config --global user.name "Ton Nom" - Définir le nom d'utilisateur global
 git config --global user.email "ton-email@example.com" - Définir l'adresse e-mail globale
 
-# Projet :
+### Projet :
