@@ -1,7 +1,8 @@
 # Quentin-Projet
 
 ## Commande git :
-git clone <url> - Cloner un dépôt
+git clone <url> - Cloner un dépôt. 
+
 git status - Vérifier l'état du dépôt
 git log - Voir les commits précédents
 git branch (-r)(-d) - Voir les branches locales ou distantes ou les deletes
