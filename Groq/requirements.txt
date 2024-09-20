@@ -2,4 +2,4 @@ groq
 httpx
 fastapi
 pydantic
-os
+uvicorn
