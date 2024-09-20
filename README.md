@@ -23,3 +23,6 @@ Il faut ajouter l'import OS pour utiliser le token dans le script ainsi que les 
 - fastapi
 - pydantic
 - os
+Screenshots test API :
+![Capture d’écran 2024-09-20 145623](https://github.com/user-attachments/assets/39d786c6-3b78-47a2-aad4-8e67f9494a0c)
+![Capture d’écran 2024-09-20 145643](https://github.com/user-attachments/assets/9aa8b894-7bf8-457b-ac17-3975654c9eae)
